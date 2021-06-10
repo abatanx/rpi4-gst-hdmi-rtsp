@@ -1,5 +1,6 @@
 #
 # RTSP
+# apt-get install glib-2.0 gstreamer-1.0 gstreamer-rtsp-server-1.0 gstreamer-1.0-alsa gstreamer1.0-plugins-base-apps
 #
 
 PACKAGES=gstreamer-1.0 glib-2.0 gstreamer-rtsp-server-1.0
